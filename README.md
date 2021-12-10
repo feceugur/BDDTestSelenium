@@ -1,4 +1,4 @@
-# BDDTestCase1_Kloia
+# BDDTestSelenium
 
 This repo is prepared for the test case given by [Kloia](https://www.kloia.com/).
 
